@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-y))s*8%z9^gp13$vvfxotht1+2k7%mj#q)$-6e*9!holsj)%as
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://job-portal-system-2-vwfh.onrender.com/','localhost','127.0.0.1']
 
 AUTH_USER_MODEL = 'accounts.CustomUser'
 
